@@ -1,0 +1,7 @@
+{
+  "name": "E/L Plumbing",
+  "description": "Professional plumbing services in Cape Town, South Africa. Fast, clean, and reliable workmanship for all your plumbing needs.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
